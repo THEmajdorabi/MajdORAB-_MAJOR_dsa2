@@ -1,10 +1,15 @@
-# CPlusPlusProjects
+How to run the repository:
 
-## Description
-This repository contains solutions for various C++ problems.
+1. If you don't have it, you need to [install g++ on you machine](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/) (for Windows)
 
-## How to Run
-- Clone the repository.
-- Navigate to the directory of the problem.
-- Compile the code using `g++ Problem1.cpp -o Problem1`.
-- Run the executable `./Problem1`.
+2. Clone the repository:
+
+git clone https://github.com/THEmajdorabi/MajdORAB-_MAJOR_dsa2.git
+cd Majd_Orabi_major_DSA2
+cd src
+
+3. Compile and run one of the 12 problems:
+
+   example for problem 6:
+g++ 'problem6_majd_orabi.cpp' -o problem6
+./problem6_majd_orabi.exe
