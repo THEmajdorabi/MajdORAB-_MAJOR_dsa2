@@ -17,8 +17,12 @@ cd src
 
 # 4.run one of the 12 problems:
 
-   example for problem 6:
+ example for problem 6:
+
+ 
 g++ problem6_majd_orabi.cpp 
+
+
 ./problem6_majd_orabi.exe
 
 
